@@ -1,6 +1,6 @@
 # SecureAPP – Web Security Training Platform Dashboard
 
-**PwnoSec** is a web security training platform designed to help users learn and understand various aspects of web application security. It provides a safe environment to practice identifying and exploiting common security vulnerabilities.
+**SecureAPP** is a web security training platform designed to help users learn and understand various aspects of web application security. It provides a safe environment to practice identifying and exploiting common security vulnerabilities.
 
 ## 🚀 Key Features
 
