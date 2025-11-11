@@ -98,20 +98,12 @@ The application is optimized for multiple screen sizes:
 
 This project is under active development with regular updates to add new features and enhance security.
 
-![screenshot](images/dashboard.png)
-![screenshot](images/login.png)
-
 ## 📝 Development Notes
 
 - Built with TypeScript for type safety
 - Structured React component implementation
 - Tailwind CSS for consistent styling
 - Integrated icon library for enhanced UI
-
-## 🤝 Contribution
-
-We welcome contributions to improve this platform.
-Feel free to submit pull requests or report any issues you encounter.
 
 ## 📜 License
 
